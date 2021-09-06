@@ -1,7 +1,1 @@
-### Hi there 👋
-
-
-**jbrunomf** `README.md` 
-
-- Python Developer
-- Profile under construction.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbrunomf)](https://github.com/jbrunomf/github-readme-stats)
