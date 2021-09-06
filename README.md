@@ -4,8 +4,8 @@
 
 
 <a href="https://github.com/jbrunomf/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbrunomf&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbrunomf&repo=jbrunomf" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbrunomf&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbrunomf&repo=jbrunomf" />
 </a>
